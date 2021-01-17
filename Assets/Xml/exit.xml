@@ -1,0 +1,7 @@
+<trigger>
+  <text>The trigger no longer intersects with Sara</text>
+  <font>
+    <size>30</size>
+    <style>normal</style>
+  </font>
+</trigger>

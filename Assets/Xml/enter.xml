@@ -1,0 +1,7 @@
+<trigger>
+  <text>The trigger intersects with Sara</text>
+  <font>
+    <size>36</size>
+    <style>italic</style>
+  </font>
+</trigger>
